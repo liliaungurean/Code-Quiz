@@ -16,6 +16,20 @@ This is a multiple-choice questions and interactive coding challenge. This is a 
 There are no steps required to install this. The users open the webpage on A web browser application. 
 
 ## Usage
+Firts page you will be preseted with. 
+![homepage](./Assets/homepage.jpg)
+
+Quiz qestions. 
+![quiz](./Assets/question.jpg)
+
+Timer countdown. 
+![timer](./Assets/timer.jpg)
+
+End of quiz; Add your name
+
+![end](./Assets/end.jpg)
+
+
 
 
 
